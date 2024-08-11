@@ -1,0 +1,40 @@
+* Organizations and communities
+[[https://www.incose.org/][International Council on Systems Engineering]]
+[[https://www.omg.org/][Object Management Group]] ---  Standards development organization
+[[https://www.openmbee.org/][Open Model-Based Engineering Environment]]
+
+* Books
+- [[http://www.system-architect.org/][System Architecture, Strategy and Product Development for Complex Systems, by Edward Crawley, Bruce Cameron, Daniel Selva, 2015]]
+- [[https://link.springer.com/book/10.1007/978-3-030-13431-0][Systems Engineering. Fundamentals and applications, by Reinhard Haberfellner, Olivier de Weck, Ernst Fricke, Siegfried Vössner, 2019]]
+- [[https://direct.mit.edu/books/oa-monograph/2908/Engineering-a-Safer-WorldSystems-Thinking-Applied][Engineering a Safer World: Systems Thinking Applied to Safety, by Nancy G. Leveson, 2011]] 
+
+* Handbooks
+- [[https://www.nasa.gov/reference/systems-engineering-handbook/][NASA Systems Engineering Handbook]]
+- [[https://www.incose.org/publications/se-handbook-v5][INCOSE Systems Engineering Handbook]]
+* Courses
+- [[https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx][MIT 16.842 Fundamentals of Systems Engineering, Fall 2015]]
+- [[https://www.youtube.com/playlist?list=PL35721A60B7B57386][MIT 16.885J Aircraft Systems Engineering, Fall 2005]]
+- https://www.youtube.com/playlist?list=PLdNzFOca8Ql9fe0sq5viAu-l1jLge1zPL
+- https://www.youtube.com/playlist?list=PL9mBya-tZpnUGW_iDmqCesHMbuvRw_PNg
+
+* Standards
+- [[https://www.iso.org/standard/81702.html][ISO15288 Systems and software engineering — System life cycle processes]]
+- [[https://www.iso.org/standard/74909.html][ISO15289 Systems and software engineering — Content of life-cycle information items (documentation)]]
+- [[https://www.iso.org/standard/74393.html][ISO42010 Software, systems and enterprise — Architecture description]]
+- [[https://www.omg.org/spec/Essence][OMG Essence]]
+- ECSS-E-ST-10C Rev.1
+* Conferences
+INCOSE
+* Software
+https://www.systemsengineeringtools.com/
+
+* Methods
+- RUP-SE
+- Arcadia
+- OOSEM
+* Languages
+- OPM
+- SysML
+- SysML2
+- Arcadia
+- ArchiMate
