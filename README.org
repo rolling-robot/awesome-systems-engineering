@@ -1,7 +1,7 @@
 * Organizations and communities
-[[https://www.incose.org/][International Council on Systems Engineering]]
-[[https://www.omg.org/][Object Management Group]] ---  Standards development organization
-[[https://www.openmbee.org/][Open Model-Based Engineering Environment]]
+- [[https://www.incose.org/][International Council on Systems Engineering]]
+- [[https://www.omg.org/][Object Management Group]] ---  Standards development organization
+- [[https://www.openmbee.org/][Open Model-Based Engineering Environment]]
 
 * Books
 - [[http://www.system-architect.org/][System Architecture, Strategy and Product Development for Complex Systems, by Edward Crawley, Bruce Cameron, Daniel Selva, 2015]]
